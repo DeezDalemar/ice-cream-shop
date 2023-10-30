@@ -1,0 +1,12 @@
+
+         /* Add space to radio buttons and checkboxes */
+
+    /* Add space between labels and radio buttons/checkboxes */
+    .label-container {
+        margin-right: 10px; /* Adjust the value to control the space between labels and inputs */
+    }
+
+
+    .toppings{
+        width: 40rem;
+    }
